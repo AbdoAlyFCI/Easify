@@ -1,6 +1,6 @@
 # Easify
 
-First: this Progrm was written in 3 days for Code Geist hackathon (not the best thing ) but i am proud with my team that we made that with this idea.
+First: this Progrm was written in 3 days for Code Geist hackathon 2018 (not the best thing ) but i am proud with my team that we made that with this idea.
 
 Second: some of open library we use all thier © recived for the real owner 
 
